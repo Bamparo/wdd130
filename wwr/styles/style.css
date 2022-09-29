@@ -10,7 +10,7 @@ nav a {
 }
 #hero-msg h1, #hero-msg h4 {
     text-align: center;
-    font-family: handlee, bradley, cursive;
+    font-family: 'Handlee', 'Bradley Hand', 'Cursive';
     font-size: 22px;
 }
 .button-box {
@@ -33,7 +33,7 @@ nav a:hover {
 }
 .book, .join{
     background-color: #3E5C76;
-    color: #000000;
+    color: #FFFFFF;
     text-decoration: none;
     font-size: 18px;
     padding: 15px 30px;
@@ -47,7 +47,7 @@ nav a:hover {
 }
 body{
     background-color: #FFFFFF;
-    font-family: Cabin, Helvetica, sans-serif;
+    font-family: 'Cabin', 'Helvetica', sans-serif;
     font-size: 22px;
     margin: 0;
     padding: 0;
@@ -72,12 +72,12 @@ nav a {
 
 home-title {
     color: #3E5C76;
-    font-family: handlee, bradley, cursive;
+    font-family: 'Handlee', 'Bradley Hand', 'Cursive';
     font-size: 2em;
 }
 h4 {
     color:#748CAB;
-    font-family: handlee, bradley, cursive;
+    font-family: 'Handlee', 'Bradley Hand', 'Cursive';
 }
 .msg h2 {
     color: #3E5C76;
